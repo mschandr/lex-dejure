@@ -37,7 +37,7 @@ Lex-DeJure is licensed under the [Polyform Noncommercial License 1.0.0](https://
 
 You are free to use, modify, and distribute this code for **non-commercial purposes**.
 
-➡️ For commercial licensing inquiries, please contact **[your-email@example.com]**.
+➡️ For commercial licensing inquiries, please contact mark dot dhas [plus] github [at] gmail [dot] com.
 
 ## 🚧 Status
 
