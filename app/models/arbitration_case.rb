@@ -1,0 +1,2 @@
+class ArbitrationCase < ApplicationRecord
+end
