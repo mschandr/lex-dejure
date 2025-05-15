@@ -36,3 +36,11 @@
 
 # Ignore RubyMine / JetBrains directory
 .idea/*
+
+# Project ignores
+Gemfile.lock
+
+vendor/bundle
+vendor/cache
+
+
